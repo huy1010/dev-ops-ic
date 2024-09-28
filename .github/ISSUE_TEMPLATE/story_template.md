@@ -2,7 +2,7 @@
 name: "Story"
 about: "Open a feature story"
 title: "[Type] As a user, I can "
-labels: "type : feature"
+labels: "feature"
 ---
 
 ## Why

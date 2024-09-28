@@ -2,7 +2,7 @@
 name: "Bug Report"
 about: "You found something that is not working. Report it so that it can be fixed. 👷‍"
 title: "Fix: "
-labels: "type : bug"
+labels: "bug"
 ---
 
 ## Issue
@@ -15,6 +15,6 @@ Describe what should be the correct behavior.
 
 ## Steps to reproduce
 
-1. 
-2. 
-3. 
+1.
+2.
+3.
