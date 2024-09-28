@@ -1,20 +1,25 @@
-# Git Repository Template
+## Introduction
 
-Project repository template to set up all public projects at [Nimble](https://nimblehq.co/)
+This is a project I worked on during my participation in the Internal Certification Path - DevOps at Nimble. I would like to thank my colleagues xxx and yyy for helping me accomplish it.
 
-## Usage
+#### Infastructure diagrams
 
-Clone the repository
+to be update
 
-`git clone git@github.com:nimblehq/git-template.git`
+#### Project Board
 
-## License
+to be update
 
-This project is Copyright (c) 2014 and onwards Nimble. It is free software and may be redistributed under the terms specified in the [LICENSE] file.
+#### Wiki
 
-[LICENSE]: /LICENSE
+tobe update
 
-## About
+## Geting started
+
+to be update
+
+## About Nimble
+
 <a href="https://nimblehq.co/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://assets.nimblehq.co/logo/dark/logo-dark-text-160.png">
@@ -22,7 +27,7 @@ This project is Copyright (c) 2014 and onwards Nimble. It is free software and m
   </picture>
 </a>
 
-This project is maintained and funded by Nimble.
+This repo using [Git Template](https://github.com/nimblehq/git-template) from Nimble
 
 We ❤️ open source and do our part in sharing our work with the community!
 See [our other projects][community] or [hire our team][hire] to help build your product.
