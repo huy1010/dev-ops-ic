@@ -4,7 +4,7 @@ about: "Open a chore issue for a minor update."
 title: "Update "
 labels: "chore"
 assignees: ["huy1010"]
-projects: ["huy1010/devops-ic"]
+projects: ["huy1010/1"]
 ---
 
 ## Why

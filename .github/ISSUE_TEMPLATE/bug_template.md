@@ -4,7 +4,7 @@ about: "You found something that is not working. Report it so that it can be fix
 title: "Fix: "
 labels: "bug"
 assignees: ["huy1010"]
-projects: ["huy1010/devops-ic"]
+projects: ["huy1010/1"]
 ---
 
 ## Issue

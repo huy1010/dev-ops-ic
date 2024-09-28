@@ -4,7 +4,7 @@ about: "Open a feature issue to add new functionalities."
 title: "Add "
 labels: "feature"
 assignees: ["huy1010"]
-projects: ["huy1010/devops-ic"]
+projects: ["huy1010/1"]
 ---
 
 ## Why
