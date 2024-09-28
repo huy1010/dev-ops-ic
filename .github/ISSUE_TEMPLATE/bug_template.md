@@ -3,6 +3,8 @@ name: "Bug Report"
 about: "You found something that is not working. Report it so that it can be fixed. 👷‍"
 title: "Fix: "
 labels: "bug"
+assignees: ["huy1010"]
+projects: ["huy1010/devops-ic"]
 ---
 
 ## Issue

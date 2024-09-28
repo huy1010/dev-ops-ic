@@ -3,6 +3,8 @@ name: "Story"
 about: "Open a feature story"
 title: "[Type] As a user, I can "
 labels: "feature"
+assignees: ["huy1010"]
+projects: ["huy1010/devops-ic"]
 ---
 
 ## Why
